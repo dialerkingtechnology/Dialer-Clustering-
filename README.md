@@ -25,6 +25,6 @@ https://dialerking.com
 **Dialer Clustering**
 https://dialerking.com/services/dialer-clustering/
 
-Company
+**Company**
 
 DialerKing develops smart contact center software solutions that help businesses improve calling efficiency, simplify workflows, and manage customer communications more effectively.
